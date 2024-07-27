@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906855892804",
+    "project_id": "hey-rider",
+    "storage_bucket": "hey-rider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906855892804:android:ee10807a41cd45bdcbb911",
+        "android_client_info": {
+          "package_name": "com.example.heyrider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANE_dzcYcCTr1wZUrolxIhUNe40omIORI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

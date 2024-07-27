@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HeyRider" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/primary</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+<!--        <item name="colorSecondary">@color/primary_light</item>-->
+    </style>
+
+    <style name="Theme.HeyRider" parent="Base.Theme.HeyRider" />
+    
+    <style name="illustration">
+        <item name="android:background" >#885A68E4</item>
+    </style>
+    <style name="card_design_bg">
+        <item name="android:background" >#000000</item>
+    </style>
+    <style name="otp_box_bg">
+        <item name="android:background" >#ffffff</item>
+    </style>
+
+
+</resources>

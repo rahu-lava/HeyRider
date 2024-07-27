@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hey Rider</string>
+    <string name="illustration_of_women_getting_into_taxi">illustration of women getting into Taxi</string>
+    <string name="logo">Logo</string>
+    <string name="welcome">Welcome 👋</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="verify_your_phone_number_before_getting_started">Verify your Phone Number Before getting Started</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="terms_amp_condition_privacy_policy"><![CDATA[Terms & Condition / Privacy Policy]]></string>
+    <string name="edit_mobile_number">Edit Mobile Number</string>
+    <string name="car_waiting_illustration">car waiting illustration</string>
+    <string name="enter_the_otp">Enter the OTP</string>
+    <string name="_0">0</string>
+    <string name="resend_otp_in">Resend OTP in</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify">VERIFY</string>
+</resources>
